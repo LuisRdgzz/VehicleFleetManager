@@ -1,0 +1,14 @@
+:root{
+ --main-color:#A60311;
+ --font-color:#A8B5BF;
+}
+
+.menu{
+    background-color : var(--main-color);
+    color: var(--font-color);
+}
+
+.form-login{
+    background-color : var(--main-color);
+        color: var(--font-color);
+}
